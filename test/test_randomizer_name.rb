@@ -1,5 +1,5 @@
 require 'test/unit'
-require 'randomizer'
+require 'factory_randomizer'
 
 class RandomizerTest < Test::Unit::TestCase
   def test_random_first_name
