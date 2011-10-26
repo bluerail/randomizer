@@ -15,7 +15,7 @@ Please not that random does not equal unique!
 Installation
 ------------
 
-    gem install factory-randomizer
+    gem install factory_randomizer
 
 Usage
 -----
